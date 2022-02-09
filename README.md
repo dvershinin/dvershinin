@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Here you'll find some of my personal projects, including Python utilities and NGINX modules. 
+
+If you're interested in NGINX module RPM packages, here's the [commercial repository by GetPageSpeed LLC](https://nginx-extras.getpagespeed.com/), the company I work with.
+
+<a href="https://stackexchange.com/users/107157/danila-vershinin"><img src="https://stackexchange.com/users/flair/107157.png" width="208" height="58" alt="profile for Danila Vershinin on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Danila Vershinin on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
