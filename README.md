@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Here on GitHub you'll find some of my projects, including:
 
-* Python utilities: [`lastversion`](https://github.com/dvershinin/lastversion/), [`sde`](https://github.com/dvershinin/sde), [`pip-safe`](https://github.com/dvershinin/pip-safe)
+* Python utilities: [`lastversion`](https://github.com/dvershinin/lastversion/), [`fds`](https://github.com/dvershinin/fds), [`sde`](https://github.com/dvershinin/sde), [`pip-safe`](https://github.com/dvershinin/pip-safe)
 * NGINX modules: [`ngx_security_headers`](https://github.com/GetPageSpeed/ngx_security_headers), [`ngx_dynamic_etag`](https://github.com/dvershinin/ngx_dynamic_etag), [`ngx_immutable`](https://github.com/GetPageSpeed/ngx_immutable). If you're interested in NGINX module RPM packages, here's the [commercial repository by GetPageSpeed LLC](https://nginx-extras.getpagespeed.com/), the company I work with.
 
 For posts about web performance and security, check out the [GetPageSpeed blog](https://www.getpagespeed.com/posts).
