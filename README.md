@@ -2,7 +2,8 @@
 
 I likes developing. I'm a frequent StackExchange user, helping out users with server-related questions. 
 
-[![Stack Overflow Flair](https://img.shields.io/badge/dynamic/json?color=blue&label=Stack%20Overflow&prefix=%2B&query=reputation&url=https%3A%2F%2Fmeta.stackoverflow.com%2Fusers%2Fflair%2F285069.json&logo=stackoverflow&style=for-the-badge)](https://serverfault.com/users/242885/danila-vershinin)
+[![Stack Overflow Flair](https://img.shields.io/badge/dynamic/json?color=blue&label=Stack%20Overflow&prefix=%2B&query=reputation&url=https%3A%2F%2Fmeta.stackoverflow.com%2Fusers%2Fflair%2F285069.json&logo=stackoverflow&style=for-the-badge)](https://stackoverflow.com/users/285069/danila-vershinin)
+[![serverfault](https://img.shields.io/badge/dynamic/json?color=blue&label=serverfault&prefix=%2B&query=reputation&url=https%3A%2F%2Fserverfault.com%2Fusers%2Fflair%2F242885.json&logo=serverfault&style=for-the-badge)](https://serverfault.com/users/242885/danila-vershinin)
 
 ## Open-Source Software
 
