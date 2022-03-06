@@ -2,9 +2,7 @@
 
 I likes developing. I'm a frequent StackExchange user, helping out users with server-related questions. 
 
-[![Stack Overflow Flair](https://img.shields.io/badge/dynamic/json?color=blue&label=Stack%20Overflow&prefix=%2B&query=reputation&url=https%3A%2F%2Fmeta.stackoverflow.com%2Fusers%2Fflair%2F285069.json&logo=stackoverflow&style=for-the-badge)](test)
-
-[![Buy Me a Coffee](https://img.shields.io/static/v1?&message=https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>&color=blue&logo=buymeacoffee&style=for-the-badge&)](Test)
+[![Stack Overflow Flair](https://img.shields.io/badge/dynamic/json?color=blue&label=Stack%20Overflow&prefix=%2B&query=reputation&url=https%3A%2F%2Fmeta.stackoverflow.com%2Fusers%2Fflair%2F285069.json&logo=stackoverflow&style=for-the-badge)](https://serverfault.com/users/242885/danila-vershinin)
 
 ## Open-Source Software
 
@@ -17,9 +15,7 @@ For posts about web performance and security, check out the [GetPageSpeed blog](
 
 ## Support me
 
+[![Buy Me a Coffee](https://img.shields.io/static/v1?&message=32%20supporters&label=Buy%20Me%20a%20Coffee&color=blue&logo=buymeacoffee&style=for-the-badge)](https://www.buymeacoffee.com/dvershinin)
+
 Any  financial contributation means a lot to me.
-
-<a href="https://www.buymeacoffee.com/dvershinin"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=dvershinin&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
-
-
 
