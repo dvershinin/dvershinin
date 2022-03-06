@@ -24,10 +24,9 @@ For posts about web performance and security, check out the [GetPageSpeed blog](
 
 ### More about me
 
-I'm a frequent StackExchange user, helping out users with server-related questions.
+I'm a frequent StackExchange user, helping out users with server-related questions. Your financial contributation means a lot to me.
 
-<a href="https://stackexchange.com/users/107157/danila-vershinin"><img src="https://stackexchange.com/users/flair/107157.png" width="208" height="58" alt="profile for Danila Vershinin on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Danila Vershinin on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+<a href="https://stackexchange.com/users/107157/danila-vershinin"><img src="https://stackexchange.com/users/flair/107157.png" width="208" height="58" alt="profile for Danila Vershinin on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Danila Vershinin on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a> <a href="https://www.buymeacoffee.com/dvershinin"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=dvershinin&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
-### Support my work
 
-<a href="https://www.buymeacoffee.com/dvershinin"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=dvershinin&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
+
