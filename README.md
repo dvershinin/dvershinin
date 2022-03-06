@@ -2,7 +2,9 @@
 
 I likes developing. I'm a frequent StackExchange user, helping out users with server-related questions. 
 
-[![Stack Overflow Flair](https://img.shields.io/badge/dynamic/json?color=blue&label=Stack%20Overflow&prefix=%2B&query=reputation&url=https%3A%2F%2Fmeta.stackoverflow.com%2Fusers%2Fflair%2F285069.json)](test)
+[![Stack Overflow Flair](https://img.shields.io/badge/dynamic/json?color=blue&label=Stack%20Overflow&prefix=%2B&query=reputation&url=https%3A%2F%2Fmeta.stackoverflow.com%2Fusers%2Fflair%2F285069.json&logo=stackoverflow)](test)
+
+[![Buy Me a Coffee](https://img.shields.io/static/v1?&message=https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>&color=blue&logo=buymeacoffee&style=for-the-badge&)](Test)
 
 ## Open-Source Software
 
