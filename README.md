@@ -24,6 +24,8 @@ For posts about web performance and security, check out the [GetPageSpeed blog](
 
 I'm available for hire through Upwork. You can find the typical projects I can complete on my [Upwork profile page](https://www.upwork.com/freelancers/~01ca36183687e51411).
 
+### Get in touch
 
+You can contact me directly on [WhatsApp](https://api.whatsapp.com/send?phone=19294809573) or via [contact page](https://www.getpagespeed.com/contact-us).
 
 
