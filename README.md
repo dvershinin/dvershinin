@@ -1,6 +1,9 @@
 ## About me
 
-I like developing new things. I'm a frequent StackExchange user, helping out users with server-related questions. 
+👋 Hi, I'm Danila Vershinin! As a passionate developer and avid StackExchange 
+contributor, I specialize in server optimization and developing innovative 
+Python utilities and NGINX modules. My work revolves around enhancing web 
+server performance and security.
 
 [![Stack Overflow Flair](https://img.shields.io/badge/dynamic/json?color=blue&label=Stack%20Overflow&prefix=%2B&query=reputation&url=https%3A%2F%2Fmeta.stackoverflow.com%2Fusers%2Fflair%2F285069.json&logo=stackoverflow&style=for-the-badge)](https://stackoverflow.com/users/285069/danila-vershinin)
 [![serverfault](https://img.shields.io/badge/dynamic/json?color=blue&label=serverfault&prefix=%2B&query=reputation&url=https%3A%2F%2Fserverfault.com%2Fusers%2Fflair%2F242885.json&logo=serverfault&style=for-the-badge)](https://serverfault.com/users/242885/danila-vershinin)
@@ -14,7 +17,7 @@ Here on GitHub you'll find some of my projects, including:
 * NGINX modules: [`ngx_security_headers`](https://github.com/GetPageSpeed/ngx_security_headers), [`ngx_dynamic_etag`](https://github.com/dvershinin/ngx_dynamic_etag), [`ngx_immutable`](https://github.com/GetPageSpeed/ngx_immutable). 
 
 
-### An enterpreneur
+### An entrepreneur
 
 If you're interested in NGINX module RPM packages, here's the [commercial repository by GetPageSpeed LLC](https://nginx-extras.getpagespeed.com/), the company I work with.
 
@@ -27,5 +30,3 @@ I'm available for hire through Upwork. You can find the typical projects I can c
 ### Get in touch
 
 You can contact me directly on [WhatsApp](https://api.whatsapp.com/send?phone=19294809573) or via [contact page](https://www.getpagespeed.com/contact-us).
-
-
