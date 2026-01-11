@@ -9,12 +9,15 @@ server performance and security.
 [![serverfault](https://img.shields.io/badge/dynamic/json?color=blue&label=serverfault&prefix=%2B&query=reputation&url=https%3A%2F%2Fserverfault.com%2Fusers%2Fflair%2F242885.json&logo=serverfault&style=for-the-badge)](https://serverfault.com/users/242885/danila-vershinin)
 [![Buy Me a Coffee](https://img.shields.io/badge/dynamic/json?color=blue&label=Drank%20Coffee&query=one_time_total&suffix=%20times&url=https%3A%2F%2Fwww.getpagespeed.com%2Fbuymeacoffee.json&logo=buymeacoffee&style=for-the-badge)](https://www.buymeacoffee.com/dvershinin)
 
-### An Open-Source Software Developer 
+### An Open-Source Software Developer
 
 Here on GitHub, you'll find some of my projects, including:
 
+* **[Gixy](https://gixy.org/)** — NGINX configuration security analyzer. Detects SSRF, HTTP splitting, and 30+ other vulnerabilities
+* **[PkgDex](https://pkgdex.org/)** — Package search engine for Linux (RPM & DEB repositories)
+* **[Amplify](https://amplify.getpagespeed.com/)** — Automated NGINX performance optimization
 * Python utilities: [`lastversion`](https://github.com/dvershinin/lastversion/), [`fds`](https://github.com/dvershinin/fds), [`sde`](https://github.com/dvershinin/sde), [`pip-safe`](https://github.com/dvershinin/pip-safe)
-* NGINX modules: [`ngx_security_headers`](https://github.com/GetPageSpeed/ngx_security_headers), [`ngx_dynamic_etag`](https://github.com/dvershinin/ngx_dynamic_etag), [`ngx_immutable`](https://github.com/GetPageSpeed/ngx_immutable). 
+* NGINX modules: [`ngx_security_headers`](https://github.com/GetPageSpeed/ngx_security_headers), [`ngx_dynamic_etag`](https://github.com/dvershinin/ngx_dynamic_etag), [`ngx_immutable`](https://github.com/GetPageSpeed/ngx_immutable) 
 
 
 ### An entrepreneur
